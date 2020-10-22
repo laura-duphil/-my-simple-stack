@@ -2,6 +2,7 @@ package deqo.ladu.mysimplestack;
 
 public interface ISimpleStack {
     /* pile */
+    /*FIFO*/
     /**
      * Tests if this stack is empty
      */
